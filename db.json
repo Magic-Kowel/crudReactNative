@@ -1,0 +1,67 @@
+{
+  "clientes": [
+    {
+      "nombre": "Josué",
+      "telefono": "666",
+      "empresa": "Hell",
+      "correo": "a20170094@utem.edu.mx",
+      "id": 1
+    },
+    {
+      "nombre": "Kowel",
+      "telefono": "999",
+      "empresa": "Infierno",
+      "correo": "Infierno",
+      "id": 2
+    },
+    {
+      "nombre": "E",
+      "telefono": "3",
+      "empresa": "E",
+      "correo": "E",
+      "id": 3
+    },
+    {
+      "nombre": "4",
+      "telefono": "4",
+      "empresa": "4",
+      "correo": "4",
+      "id": 4
+    },
+    {
+      "nombre": "555",
+      "telefono": "555",
+      "empresa": "555",
+      "correo": "555",
+      "id": 5
+    },
+    {
+      "nombre": "6",
+      "telefono": "6",
+      "empresa": "6",
+      "correo": "6",
+      "id": 6
+    },
+    {
+      "nombre": "8",
+      "telefono": "8",
+      "empresa": "8",
+      "correo": "8",
+      "id": 8
+    },
+    {
+      "nombre": "96",
+      "telefono": "96",
+      "empresa": "96",
+      "correo": "96",
+      "id": 9
+    },
+    {
+      "nombre": "Juan",
+      "telefono": "314555",
+      "empresa": "Tem",
+      "correo": "Coreo",
+      "id": 10
+    }
+  ]
+}
